@@ -1,0 +1,1 @@
+The only thing that has been tested is sending a client request to a server and parsing out the NTP time, and converting the time to unix. No further work is expected unless there is demand for it outside of my one use case [here](https://github.com/isaac-asdf/esp32-nostr-client).
